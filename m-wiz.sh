@@ -22,8 +22,8 @@ echo -e "$red
                          ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
                                                                 v 1.1$rset"
 echo " "                                                          
-echo -e "$red                                   ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                              ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                                   ▶ Coded by$grn wolfyy$red ◀$rset"
+echo -e "$red                              ⫸$ylo youtube.com/wolfyy2009$red ⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                         >>>  [ click ENTER to continue ] <<<$rset"
