@@ -14,7 +14,7 @@ m-wiz is a bash based script which is officially made for metasploit-framework u
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![photo_2019-06-29_15-32-01](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaEzZjkkfcO2vPa0mTJG_coZyzoQbs1qErQOP4llVuDLYaaR_4&usqp=CAU)
+![photo_2019-06-29_15-32-01](https://ibb.co/gZW8VCH)
 
 
 ### 📌 ***m-wiz is available for***:
